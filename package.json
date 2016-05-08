@@ -22,7 +22,8 @@
     "typescript": "^1.8.10",
     "underscore": "^1.8.3",
     "watch": "^0.17.1",
-    "webpack": "^1.12.14"
+    "webpack": "^1.12.14",
+    "webpack-bundle-size-analyzer": "^2.0.1"
   },
   "license": "ISC",
   "main": "index.js",
