@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "ES5",
+    "sourceMap": true
+  },
+  "files": [
+    "typings/backbone.d.ts",
+    "typings/chroniton.d.ts",
+    "typings/d3.d.ts",
+    "typings/jquery.d.ts",
+    "typings/underscore.d.ts",
+    "typings/widgets.d.ts",
+    "index.ts"
+  ]
+}
